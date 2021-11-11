@@ -1,6 +1,6 @@
 iOS Developer from 🇳🇵currently working in 🇩🇪
 
-- 🔭 I’m currently working on [my website](www.anuraagshakya.com) using [Gatsby](https://github.com/gatsbyjs/gatsby)
+- 🔭 I’m currently working on [my website](https://www.anuraagshakya.com) using [Gatsby](https://github.com/gatsbyjs/gatsby)
 - 🌱 I’m currently learning SwiftUI, Combine, React, CSS
 - 👯 I’m looking to collaborate on a project for mobile widgets displaying Kathmandu's live air quality
 - 🤔 I’m looking for help with React, CSS
