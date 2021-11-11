@@ -1,5 +1,12 @@
-### Hi there 👋
+iOS Developer from 🇳🇵currently working in 🇩🇪
 
+- 🔭 I’m currently working on [my website](anuraagshakya.com) using [Gatsby](https://github.com/gatsbyjs/gatsby)
+- 🌱 I’m currently learning SwiftUI, Combine, React, CSS
+- 👯 I’m looking to collaborate on a project for mobile widgets displaying Kathmandu's live air quality
+- 🤔 I’m looking for help with React, CSS
+- 💬 Ask me about 📱 iOS Devlopment, movies, games, tech
+- 📫 How to reach me: [anuraag.shakya@gmail.com](mailto:anuraag.shakya@gmail.com)
+- 😄 Pronouns: He/Him
 <!--
 **anuraagshakya/anuraagshakya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
